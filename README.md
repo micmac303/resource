@@ -1,0 +1,7 @@
+# resource
+
+## Package
+```
+./gradlew distZip
+```
+
